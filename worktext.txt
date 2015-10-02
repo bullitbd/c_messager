@@ -1,0 +1,53 @@
+IMAGES - Select Thumbnail - (THUMBS ARE DEFAULTED) defaulted
+
+	http://r21concierge.s3.amazonaws.com/images/originals/Argentina008.jpg
+
+
+	http://farm1.static.flickr.com/26/41140853_d7658064f3_z.jpg?zz=1
+	
+	
+	[IMG]http://img.photobucket.com/albums/v309/lonewolf_eyes/Photography/autumndrift.png width:1600 height:1066[/IMG]
+
+	
+
+DOC - Select Text Link
+
+	<embed id="doc_46028" name="doc_46028" 
+	src="http://d1.scribdassets.com/ScribdViewer.swf?document_id=21356706&access_key=key-26aaw1o94mgz6sfsj0ml&page=1&viewMode=list" 	type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" height="96%" width="960" wmode="opaque" 	bgcolor="#ffffff"></embed>
+
+
+VIDEOS - Thumbnail is chosen by default.  Click "FULL WINDOW" checkbox for different view.
+
+R21 FLV VIDEO in IFRAME
+
+src="http://r21concierge.s3.amazonaws.com/videos/shuttle.html" width:"800" height:"509"
+
+VIMEO VIDEO - Select THumbnail
+
+	<iframe src="http://player.vimeo.com/video/15607283" width="800" height="450" frameborder="0"><param name="allowScriptAccess" value="always"></iframe><p><a 	href="http://vimeo.com/15607283">Jeremy Messersmith - Tatooine</a> from <a href="http://vimeo.com/clearproductions">Eric Power</a> on <a 	href="http://vimeo.com">Vimeo</a>.</p>
+
+DAILYMOTION.COM VIDEO
+
+<object width="960" height="536"><param name="movie" value="http://www.dailymotion.com/swf/video/x4v1j4_adrenaline-base-jump-world-record-h_sport?additionalInfos=0"></param><param name="allowFullScreen" value="true"></param><param name="allowScriptAccess" value="always"></param><embed type="application/x-shockwave-flash" src="http://www.dailymotion.com/swf/video/x4v1j4_adrenaline-base-jump-world-record-h_sport?additionalInfos=0" width="480" height="268" allowfullscreen="true" allowscriptaccess="always"></embed></object><br /><b><a href="http://www.dailymotion.com/video/x4v1j4_adrenaline-base-jump-world-record-h_sport">Adrenaline-base jump world record  -HD- 1080p</a></b><br /><i>Uploaded by <a href="http://www.dailymotion.com/_006-serie-TS_">_006-serie-TS_</a>. - <a href="http://www.dailymotion.com/us/channel/sport">Basketball, baseball, pro wrestling and more sports videos.</a></i>
+
+YOUTUBE <IFRAME> Code VIDEO
+
+<iframe title="YouTube video player" class="youtube-player" type="text/html" width="1280" height="750" src="http://www.youtube.com/embed/XSGBVzeBUbk?hd=1" frameborder="0"></iframe>
+
+
+YOUTUBE VIDEO
+
+<object width="960" height="745"><param name="movie" value="http://www.youtube.com/v/Ou6_MkIvKOo?fs=1&amp;hl=en_US&amp;hd=1"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/Ou6_MkIvKOo?fs=1&amp;hl=en_US&amp;hd=1" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="960" height="745"></embed></object>
+
+YOUTUBE VIDEO
+
+	<object width="1280" height="745"><param name="movie" value="http://www.youtube.com/v/2uUk9K9TQhg?fs=1&amp;hl=en_US&amp;hd=1"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/2uUk9K9TQhg?fs=1&amp;hl=en_US&amp;hd=1" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="1280" height="745"></embed></object>
+
+YAHOO - (hAS THUMBNAILS, BUT NOT SEARCHED YET)
+
+	http://video.yahoo.com/watch/8344486/22297879
+	<div><object width="512" height="322"><param name="movie" value="http://d.yimg.com/static.video.yahoo.com/yep/YV_YEP.swf?ver=2.2.46" /><param 	name="allowFullScreen" value="true" /><param name="AllowScriptAccess" VALUE="always" /><param name="bgcolor" value="#000000" /><param 	name="flashVars" 	value="id=22297891&vid=8344488&lang=en-us&intl=us&thumbUrl=http%3A//l.yimg.com/a/i/us/sch/cn/v/v23/w918/8344488_240_180.jpeg&embed=1&ap=1603008" 	/><embed src="http://d.yimg.com/static.video.yahoo.com/yep/YV_YEP.swf?ver=2.2.46" type="application/x-shockwave-flash" width="512" height="322" 		allowFullScreen="true" AllowScriptAccess="always" bgcolor="#000000"flashVars="id=22297891&vid=8344488&lang=en-us&intl=us&thumbUrl=http%3A//l.yimg.com/a/i/us/sch/cn/v/v23/w918/8344488_240_180.jpeg&embed=1&ap=1603008" ></embed></object><br /><a href="http://video.yahoo.com/watch/8344488/22297891">Disappearing Skull Trick How To</a> @ <a href="http://video.yahoo.com" >Yahoo! Video</a></div>
+
+METACAFE VIDEO
+
+	<div style="background:#000000;width:440px;height:272px"><embed flashVars="playerVars=showStats=yes|autoPlay=no|videoTitle=LT Magnet Motor" 	src="http://www.metacafe.com/fplayer/5302349/lt_magnet_motor.swf" width="440" height="272" wmode="transparent" allowFullScreen="true" 	allowScriptAccess="always" name="Metacafe_5302349" pluginspage="http://www.macromedia.com/go/getflashplayer" 	type="application/x-shockwave-flash"></embed></div><div style="font-size:12px;"><a 	href="http://www.metacafe.com/watch/5302349/lt_magnet_motor/">LT Magnet Motor</a>

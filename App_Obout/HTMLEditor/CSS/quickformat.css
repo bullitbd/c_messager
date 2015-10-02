@@ -1,0 +1,17 @@
+﻿/*NORMAL*/
+.normal {color:#444444; font-weight:normal;font-style:normal;text-decoration:none;}
+/*NORMAL*/
+.nbold {color:#444444; font-weight:bold;font-style:normal;text-decoration:none;}
+/*NORMAL*/
+.nbital {color:#444444; font-weight:bold;font-style:italic;text-decoration:none;}
+/*NORMAL*/
+.nbitalu {color:#444444; font-weight:bold;font-style:normal;text-decoration:underline;}
+/*CYAN*/
+.cyan {color:#00a89d; font-weight:normal;font-style:normal;text-decoration:none;}
+/*CYAN*/
+.cbold {color:#00a89d; font-weight:bold;font-style:normal;text-decoration:none;}
+/*CYAN*/
+.cbital {color:#00a89d; font-weight:bold;font-style:italic;text-decoration:none;}
+/*CYAN*/
+.cbitalu {color:#00a89d; font-weight:bold;font-style:normal;text-decoration:underline;}
+

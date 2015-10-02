@@ -1,0 +1,21 @@
+﻿body {
+
+color:#666666;
+font-size:11px;
+font-family:Arial,Helvetica,Sans-Serif;
+}
+body a {
+color:#0033ff;
+text-transform:uppercase;
+font-weight:bold;
+font-size:9px;
+}
+body a:link {
+text-decoration: none;
+} 
+body a:visited {
+text-decoration: none;
+} 
+body a:hover {
+text-decoration: underline;
+} 

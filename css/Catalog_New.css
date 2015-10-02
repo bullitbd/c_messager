@@ -1,0 +1,336 @@
+﻿
+body
+{
+    font-family: Arial,Helvetica,Sans-Serif;
+    font-size: 12px;
+}
+.clearfix
+{
+    clear: both;
+}
+.buttonlist
+{
+    font-size: x-small;
+    text-align: right;
+    margin-bottom: 3px;
+}
+#rblshowend
+{
+    font-size: x-small;
+    text-align: left;
+    margin: 3px 0 5px 5px;
+    float: left;
+}
+.checkbox
+{
+    font-size: x-small;
+    font-weight: bold;
+    float: left;
+    padding: 1px 5px;
+}
+.checkbox input, .buttonlist input
+{
+    vertical-align: middle;
+}
+.grpcounter
+{
+    background-color: #FFFBD6;
+    border-style: none;
+    height: 17px;
+    width: 17px;
+    color: #990000;
+    font-weight: bold;
+    font-size: 1.2em;
+    margin-top: 5px;
+}
+.cntrtext
+{
+    font-size: .75em;
+    font-weight: bold;
+    float: right;
+    margin-top: 5px;
+    vertical-align: bottom;
+    width: 100px;
+    margin-bottom: 0px;
+}
+#validstart
+{
+    color: #ff0000;
+    font-weight: bold;
+    font-size: .85em;
+    margin-left: 5px;
+    text-align: center;
+    width: 200px;
+    display: none;
+}
+.validate
+{
+    text-align: center;
+    z-index: 5;
+}
+.grouplabel, .grouplabelleft
+{
+    font-size: .75em;
+    font-weight: bold;
+    margin: 0 10px 3px 0;
+}
+.grouplabelleft
+{
+    float: left;
+    margin: 7px 0 0 5px;
+}
+.sectionlabel
+{
+    font-size: small;
+    font-weight: bold;
+    width: 100%;
+    text-align: center;
+    background-color: transparent;
+    border-style: none;
+}
+#parserdata
+{
+    display: block;
+}
+#grpdisplayas
+{
+    display: block;
+}
+#rbldisplayas
+{
+    float: right;
+}
+#grpshowas
+{
+    text-align: left;
+    display: block;
+}
+#normhasgrp
+{
+    display: none;
+    text-align: left;
+    vertical-align: top;
+}
+#tblDisplayData
+{
+    width: 100%;
+    height: 241px;
+}
+.groupcenterbox
+{
+    width: 363px;
+}
+.groupcenter
+{
+    width: 407px;
+}
+.memberbtn
+{
+    height: 30px;
+}
+.centercol
+{
+    width: 355px;
+}
+.leftcol
+{
+    width: 110px;
+    text-align: left;
+}
+.rightcol
+{
+    width: 110px;
+    text-align: right;
+}
+.toprow
+{
+    height: 40px;
+    vertical-align: middle;
+}
+.style2
+{
+    height: 9px;
+}
+.style3
+{
+    height: 73px;
+}
+.style4
+{
+    height: 59px;
+}
+.style7
+{
+    height: 54px;
+}
+
+/********************* Css for use with new catalog_edit2 ******************/
+
+#form1
+{
+    
+    background-color: #ffffff;
+    position:relative;
+}
+.panelTitle
+{
+  display:block;
+  font-weight:bold;
+  font-size:13pt;
+  margin:10px 0;
+  text-align:center;  
+}
+.panelDiv, .panelDiv2, .panelDiv3
+{
+    background-color: #efefef;
+    border: solid 2px #7f7f7f;
+    width:650px;
+}
+.panelDiv2
+{
+    position:relative;
+    left:0px;
+    top:0px;
+}
+.panelDiv3
+{
+    position:absolute;
+    left:170px;
+    top:260px;
+    width:360px;
+}
+table, td
+{
+    /*border: inset 1px #666666;*/
+}
+.topWide
+{
+    float: left;
+    margin: 10px 0 0 10px;
+    width: 96%;
+}
+.tableTop
+{
+    width: 100%;
+}
+.tableTop tr
+{
+    min-height: 10px;
+}
+.topLeft, .bottomLeft, .bottomMiddle
+{
+    float: left;
+    margin: 10px 0 0 10px;
+    width: 40%;
+}
+.bottomMiddle
+{
+    width: 45%;
+}
+.bottomLeft
+{
+    width: 25%;
+}
+.topRight, .bottomRight
+{
+    margin: 10px 10px 0 0;
+    width: 55%;
+    float: right;
+}
+.bottomRight
+{
+    margin: 10px 15px 0 0;
+    width: 18%;
+    text-align:left;
+    padding:5px 0;
+    float: right;
+}
+
+#centerWide
+{
+    float: left;
+    margin: 0 10px;
+    width: 97%;
+}
+.bottomButtons
+{
+    float: left;
+    margin: 20px 0 20px 15px;
+    width: 95%;
+}
+.style1
+{
+    width: 100%;
+}
+.boxTitle
+{
+    padding-top: 10px;
+    text-transform: capitalize;
+    font-weight: bold;
+}
+.boxTitleNoPad, .boxTitleInfoOnly
+{
+    padding-top: 1px;
+    text-transform: capitalize;
+    font-weight: bold;
+}
+.boxTitleInfoOnly
+{
+    color: #999999;
+}
+.boxRow
+{
+    padding-bottom: 4px;
+}
+.boxRow2
+{
+    padding-bottom: 10px;
+}
+.ddlFormat
+{
+    font-style: italic;
+    margin-left: 5px;
+    width: 90%;
+}
+.tboMulti, .tboMultiTall, .tboEmbed
+{
+    width: 99%;
+    margin-left: 5px;
+    height: 22px;
+}
+.tboMultiTall
+{
+    height: 32px;
+}
+.tboEmbed
+{
+    height: 100px;
+}
+.buttons
+{
+    width: 66px;
+    text-transform: uppercase;
+    font-size: .9em;
+    font-weight: bold;
+}
+.btnLeftGroup
+{
+    float: left;
+    margin: 0 15px 0 5px;
+}
+.btnRightGroup
+{
+    float: right;
+    margin: 0 5px 0 15px;
+}
+.style2
+{
+    font-weight: bold;
+    color: Red;
+}
+#ddlAssociatedPE .ob_iCboICBC li
+{
+    float: left;
+    width: 125px;
+}
+

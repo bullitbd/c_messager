@@ -1,0 +1,41 @@
+﻿body	{
+	background: #fff;
+	text-align: left;
+	width: 350px;
+	margin: 3px;
+	width: 595px;
+	}
+	
+div.shortBox, div.shortBox2, div.longBox {
+	border: 1px solid green;
+	padding: 15px 10px 0 10px;
+	margin-bottom: 20px;
+	position: relative;
+	}
+
+div.longBox {
+	width: 546px;
+	}
+#popupContent {
+	margin: 10px 15px;
+	width: 565px;
+	}
+
+#popupContent p {
+	margin-bottom: 13px;
+	}
+	
+#popupContent div.longBox {
+	width: 541px;
+	}
+
+div.headerBox, div.headerBox2, div.longheaderBox {
+	color: #fff;
+	font-weight: bold;
+	background: #990000;
+	padding: 5px 10px;
+	}
+		
+div.longheaderBox b {
+	color: #000;
+	}

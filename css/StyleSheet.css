@@ -1,0 +1,79 @@
+﻿div.MaskedDiv
+{
+	visibility: hidden;
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	font-family: verdana;
+	font-weight: bold;
+	padding: 40px;
+	z-index: 100;
+	background-image: url(gray.png); /* ieWin only stuff */
+	_background-image: none;
+	_filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(enabled=true, sizingMethod=scale src= 'gray.png' );
+}
+
+
+div.ModalPopup
+{
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	font-style: normal;
+	background-color: #CCCCCC;
+	position: absolute; /* set z-index higher than possible */
+	z-index: 10000;
+	visibility: hidden;
+	color: Black;
+	border-style: solid;
+	border-color: #999999;
+	border-width: 1px;
+	width: 800px;
+	height: auto;
+}
+.style1
+{
+	width: 55%;
+}
+.reqdField
+{
+	font-family: Arial, Helvetica, sans-serif;
+	font-weight: bold;
+	color:Red;
+	font-size: small;
+}
+.chkStyle
+{
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: small;
+	text-align: left;
+}
+.ModalPopupBG
+{
+	background-color: #666699;
+	filter: alpha(opacity=50);
+	opacity: 0.7;
+}
+ .Popup
+{
+	min-width:800px;
+	min-height:150px;
+	background:white;
+}
+.PopupHeader 
+{
+	background-color: Black;  
+    color:White;
+    font-size:medium;
+    font-weight:bold;
+    text-align:center;
+    padding:5px 5px 5px 5px;
+}
+.Controls
+{
+	background-color: Black;  
+    color:White;
+	font-size:medium;
+    font-weight:bold;
+    text-align:center;
+    padding:5px 5px 5px 5px; 
+}

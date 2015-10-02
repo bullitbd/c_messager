@@ -1,0 +1,6 @@
+Changelog
+
+10/26 BD Changed line 167 of home.aspx.vb from
+        sSQL = sSQL + " ORDER BY U.Login+CASE profile_type WHEN 'ChildProfile' THEN ' (C)' WHEN 'ExecutiveProfile' THEN ' (P)' ELSE '' END"
+TO:         sSQL = sSQLMain + " ORDER BY U.Login+CASE profile_type WHEN 'ChildProfile' THEN ' (C)' WHEN 'ExecutiveProfile' THEN ' (P)' ELSE '' END"
+

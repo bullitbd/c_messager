@@ -1,0 +1,65 @@
+﻿body 
+{
+    font-family:Arial, Helvetica, Sans-Serif;
+}
+.outerbox
+{
+    border: solid 1px #990000; 
+    width: 600px; 
+    background-color: #FFFBD6; 
+    margin: 0 auto; 
+    padding:15px 0 15px 0;
+   
+}
+
+.innerbox
+{
+   border: solid 1px #7f7e84; 
+   width: 580px;
+   padding:0 3px 5px 3px; 
+   margin: 0 auto;
+ /* float: none; */
+  
+}
+.box, .boxout
+{
+   border: solid 1px #666633;
+   background-color:#fefff7
+   /*#dee0e2;*/;
+}
+.boxout
+{
+background-color:#dee0e2;
+}
+.dropbox
+{
+line-height:1.8em;
+}
+.floatright
+{
+float:right;
+margin-right:2px;
+}
+.floatleft
+{
+float:left;
+}
+
+.smalltext
+{
+    font-size:small; 
+    font-weight:bold;
+    color:Gray;
+}
+.red
+{
+    font-size:medium; 
+    font-weight:bold;
+    color:Red;
+}
+.buttonlist
+{
+    font-size: x-small;
+    text-align: right;
+    margin-bottom: 3px;
+}
